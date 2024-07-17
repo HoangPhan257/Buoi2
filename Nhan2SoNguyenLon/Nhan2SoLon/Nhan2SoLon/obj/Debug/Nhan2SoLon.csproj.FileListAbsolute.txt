@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\Hoang\Nhan2SoNguyenLon\Nhan2SoLon\Nhan2SoLon\bin\Debug\Nhan2SoLon.exe.config
+E:\LuuDuLieuSinhVien\Hoang\Nhan2SoNguyenLon\Nhan2SoLon\Nhan2SoLon\obj\Debug\Nhan2SoLon.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\Hoang\Nhan2SoNguyenLon\Nhan2SoLon\Nhan2SoLon\bin\Debug\Nhan2SoLon.exe
+E:\LuuDuLieuSinhVien\Hoang\Nhan2SoNguyenLon\Nhan2SoLon\Nhan2SoLon\bin\Debug\Nhan2SoLon.pdb
+E:\LuuDuLieuSinhVien\Hoang\Nhan2SoNguyenLon\Nhan2SoLon\Nhan2SoLon\obj\Debug\Nhan2SoLon.exe
+E:\LuuDuLieuSinhVien\Hoang\Nhan2SoNguyenLon\Nhan2SoLon\Nhan2SoLon\obj\Debug\Nhan2SoLon.pdb
